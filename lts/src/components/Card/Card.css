@@ -1,0 +1,16 @@
+.card {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 10px;
+  width: 200px;
+}
+
+.card h4 {
+  margin-bottom: 10px;
+  color: #94a3b8;
+}
+
+.card p {
+  font-size: 24px;
+  font-weight: bold;
+}
